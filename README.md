@@ -1,0 +1,2 @@
+# DOTDOTfetch
+Custom NEofetch config
